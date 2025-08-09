@@ -1,5 +1,5 @@
 # game-versions
-Versionamento do Projeto Eclipse Mirrors
+Versionamento do Projeto Eclipse Mirrors:
 
 v0.0.2 -> Implementado o primeiro protótipo de menu principal e do menu de configurações
 
